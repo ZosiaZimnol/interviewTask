@@ -53,4 +53,4 @@ Możesz to zrobić w zakładce "Settings" -> "Collaborators" -> "Manage access" 
 - Zastosuj najlepsze praktyki programistyczne w kodzie frontendowym i backendowym.
 - Upewnij się, że po uruchomieniu projektu za pomocą polecenia `docker compose up` aplikacja uruchamia się poprawnie i działa zgodnie z oczekiwaniami. To właśnie wynik działania tego polecenia będzie weryfikowany w pierwszej kolejności.
 
-✅ Projekt gotowy do rekrutacji
+✅Projekt gotowy do rekrutacji
